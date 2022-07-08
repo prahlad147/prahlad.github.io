@@ -44,7 +44,7 @@ const Reel = () => {
 
             <center>
 
-                <div class="container mt-5">
+                <div class="container  widthm mt-5">
 
                     {/* <div className="logo">
           <img alt="logo" src={Logo} className="insta-logo" />

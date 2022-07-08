@@ -7,7 +7,7 @@ import './style.css';
 
 const QuizF = () => {
 
-    var timeLeft = 30;
+    var timeLeft = 60;
     var elem = document.getElementById('Timer');
 
     var timerId = setInterval(countdown, 1000);
